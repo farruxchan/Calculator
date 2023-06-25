@@ -1,0 +1,23 @@
+.calculatorbutton {
+    margin-top: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.calculatorbutton :nth-child(1n+1) {
+    margin-right: 10px;
+}
+
+.calculatorcyferblut {
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+}
+
+.calculator {
+    width: 10px;
+    height: 10px;
+}
